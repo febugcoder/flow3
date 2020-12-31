@@ -4,3 +4,7 @@ console.log('master up')
 console.log(`1`)
 console.log(`2`)
 console.log(`3`)
+<<<<<<< HEAD
+=======
+console.log(`4`)
+>>>>>>> bcbc392 (4)
